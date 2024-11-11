@@ -1,9 +1,9 @@
-# 📊 Supply Chain Analysis using Python
-Welcome to the **Supply Chain Analysis** project! This repository showcases the analysis of a fashion and beauty startup's product supply chain dataset using Python . The project provides valuable insights into the operations, inventory, and trends in the supply chain, helping identify key performance metrics.
+# 📦 Supply Chain Analysis for Fashion & Beauty Startup
+Welcome to the **Supply Chain Analysis** project! This project delves into a comprehensive supply chain analysis for a Fashion & Beauty startup focused on makeup products. The analysis is aimed at identifying trends, enhancing supply chain efficiency, and providing actionable insights to support strategic decision-making in inventory management, distribution, and demand forecasting.
 ## 🚀 Features
 * Analyze product movement across the supply chain
 * Identify bottlenecks, delays, and inventory levels
-* Visualize product trends with Matplotlib for better decision-making
+* Visualize product trends for better decision-making
 * Provide actionable insights to optimize logistics and inventory management
 ## 📁 Dataset Overview
  I got this Dataset from Kaggle . This dataset contains 24 columns and 100 rows
@@ -18,6 +18,16 @@ Welcome to the **Supply Chain Analysis** project! This repository showcases the 
 * **Manufacturing Lead Time**: Time taken for the product to be manufactured
 * **Manufacturing Costs**: Expenses associated with production
 * **Inspection Results**: Outcome of quality checks (e.g., Pending , Passed , Failed)
+  
+## 🔬Methodology
+* **Data Preprocessing** :
+ Cleaned and structured the data to handle missing values, inconsistencies, and outliers.
+* **Market Analysis** :
+ Conducted an analysis on demand trends and product performance.
+* **Visualization** :
+ Created visuals to represent sales trends, inventory levels, and demand forecasting for actionable insights.
+* **Key Findings** :
+  Identified top-performing products and regions, forecasted demand spikes, and pinpointed inefficiencies in the supply chain.
 
 ## 🛠️ Tools and Libraries Used
 * **Python**: Programming language for analysis
@@ -28,7 +38,6 @@ Welcome to the **Supply Chain Analysis** project! This repository showcases the 
 ## 📈 Key Insights from the Analysis
 * **Sales Trends**: Identified top-selling and underperforming products
 * **Inventory Optimization**: Analyzed stock levels to prevent overstock or stockouts
-* **Production Efficiency**: Evaluated manufacturing lead times and volumes
 * **Cost Analysis**: Identified trends in manufacturing expenses
 * **Quality Control**: Investigated inspection failures to enhance product quality
 
